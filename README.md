@@ -39,9 +39,10 @@ If you were to invest in a restaurant, which characteristics would you be lookin
 - Visualization
 
 # MODELLING
-![](Screenshot(37).png)
 
-The model is a star schema There are dimensional tables and 1 fact table.The dimensional tables are all joined to the fact table with a one-to-many relationship
+![Screenshot (37)](https://github.com/user-attachments/assets/c51bd6cc-7f91-4dd5-9cc1-cbabe43eb3e2)
+
+The model is a star schema, There are 4 dimensional tables and 1 fact table.The dimensional tables are all joined to the fact table with a one-to-many relationship
 
 # VISUALIZATION
 The report is a single page report 
