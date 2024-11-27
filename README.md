@@ -38,6 +38,37 @@ If you were to invest in a restaurant, which characteristics would you be lookin
 
 - Visualization
 
-# HMODELLINGV
+# MODELLING
+![](Screenshot(37).png)
+
+The model is a star schema There are dimensional tables and 1 fact table.The dimensional tables are all joined to the fact table with a one-to-many relationship
+
+# VISUALIZATION
+The report is a single page report 
+You can interact with the dashboard(here)(https://app.powerbi.com/view?r=eyJrIjoiNDc4N2U2NTktMjBkNC00ZmFkLWFkYWQtYTA3MWQzZjM0M2JjIiwidCI6ImZjODljMTdkLTJiZTAtNDhiZS04ZDA2LWU3YjFlNjdkZDBhMSJ9)
+
+# ANALYSIS
+I was able to draw the following insightsfrom the analysis 
+ 
+**_Question 1_**
+
+I deduced from the analysis that the highest rated restaurants had the highest average food rating as well as the highest average service rating 
+
+**_Question 2_**
+
+The consumers demographics was such mas occupation and budget were plotted against the       average customer age which is 27.30% and it was deduced that The consumers demographics When it comes to budget suggests that 29.81% consumers did not account for their budget, also 32.44% of the consumers didn’t also provide information on their occupation. Hence we can conclude that there is a bias in the customer’s data 
+
+**_Question 3_**
+
+There is a demand and supply gap. From the analysis, 63% of the customers are drinkers and 87 out of the 130 restaurants do not have alcohol service 
+
+**_Question 4_**
+
+If I am to invest in a restaurant, I would look out for parking space, an open area where the restaurant is situated, and lastly I will look out for a restaurant with a full bar	
+
+# RECOMMENDATION
+- The customers should be enlightened on how to fill the survey properly in order to get the right information and avoid bias
+- More of the restaurants should look into providing alcohol service because it would improve sales significantly
+
 
 
